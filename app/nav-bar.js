@@ -2,6 +2,7 @@ import "./globals.css";
 import logo_2 from "./images/logo-placeholder_b&w.png";
 
 export default function NavBar() {
+
     return (
         <header className="header">
             <div className="logo">
